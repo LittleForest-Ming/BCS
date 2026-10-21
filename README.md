@@ -25,3 +25,5 @@ The original videos and ZIP archive are available in [Releases](https://github.c
 Original files are provided without re-encoding. The ZIP retains its existing folder structure (`test_video/test_video/`), including the original `resuts` and `test video` folder names. [SHA256SUMS.txt](SHA256SUMS.txt) provides checksums for the five original downloads.
 
 The preview joins three excerpts from the result video: **1–4 s, 9–12 s, and 15–18 s**. The GIF is 800 × 450 at 8 fps; the MP4 preview is 1280 × 720 at 30 fps. Only the previews are shortened and resized.
+
+More full-length test videos will be uploaded over time.
