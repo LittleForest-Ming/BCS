@@ -6,7 +6,7 @@ This repository provides testing videos of dairy cows for Body Condition Scoring
 
 [![BCS result preview: three cows with tracking regions and body condition scores](assets/bcs-demo.gif)](assets/bcs-demo.mp4)
 
-A 9-second preview of cows **T-0006, T-0011, and T-0015**, showing the tracking/scoring regions and the BCS values displayed in the result video. Click the animation to open the clearer MP4 preview.
+A preview of cows **T-0006, T-0011, and T-0015**, showing the tracking/scoring regions and the BCS values displayed in the result video. Click the animation to open the clearer MP4 preview.
 
 [MP4 preview](assets/bcs-demo.mp4) · [Full result video](https://github.com/LittleForest-Ming/BCS/releases/download/test-videos-v1/multi_cow_showcase_T-0006_T-0011_T-0015.mp4)
 
